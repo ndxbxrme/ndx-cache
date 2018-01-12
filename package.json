@@ -1,6 +1,6 @@
 {
   "name": "ndx-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Memory cache for ndx-framework app databases",
   "main": "build/index.js",
   "scripts": {
